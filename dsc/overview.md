@@ -1,5 +1,5 @@
 ---
-title: "Общие сведения о службе настройки требуемого состояния Windows PowerShell"
+title: "Общие сведения о службе настройки требуемого состояния Windows PowerShell test"
 ms.date: 2016-05-16
 keywords: powershell,DSC
 description: 
